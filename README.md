@@ -1,3 +1,5 @@
+Usei esse material no estudo do seguinte livro:
+
 # Python for Data Analysis, 2nd Edition
 
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
